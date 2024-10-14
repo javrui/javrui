@@ -8,7 +8,7 @@ Software development passionate
 
 *   🌍  I'm based in Madrid
 *   ✉️  You can contact me at [javruimantech2@gmail.com](mailto:javruimantech2@gmail.com)
-*   🧠  I'm learning AI with python
+*   🧠  I'm learning AI with python and improving my Python skills
 
 ### Skills 
 <p align="left">
