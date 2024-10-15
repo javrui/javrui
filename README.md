@@ -5,7 +5,7 @@ Engineer, Developer, Creator.
 -----------------------------
 
 *   🌍  I'm based in Madrid
-*   ✉️  You can contact me at [javruimantech2@gmail.com](mailto:javruimantech@gmail.com)
+*   ✉️  You can contact me at [javruimantech@gmail.com](mailto:javruimantech@gmail.com)
 *   🧠  I'm learning AI with python and improving my Python skills
 
 ### Skills 
