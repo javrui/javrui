@@ -4,9 +4,9 @@ Hi, my name is Javier Ruiz
 Engineer, Developer, Creator.
 -----------------------------
 
-*   🌍  I'm based in Madrid, Spain
+*   🌍  I'm based in Madrid, Spain.
 *   ✉️  You can contact me at [javruimantech@gmail.com](mailto:javruimantech@gmail.com)
-*   🧠  I'm learning Artificial Intelligence while improving my Python skills
+*   🧠  I love Python and Software Design, and I am currently learning about Artificial Intelligence.
 *   🔆  My [portfolio](https://javrui.github.io/public_portfolio/index.html)
 *   🏁 My project [search](https://javrui.github.io/search/index.html)
 
