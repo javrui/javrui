@@ -8,7 +8,7 @@ Engineer, Developer, Creator.
 *   ✉️  You can contact me at [javruimantech@gmail.com](mailto:javruimantech@gmail.com)
 *   🧠  I love Python and Software Design, and I am currently learning about Artificial Intelligence.
 *   🔆  My [portfolio](https://javrui.github.io/portfolio/)
-*   🏁 My project [search](https://javrui.github.io/search/index.html)
+*   🏁 My project [search](https://search-module.readthedocs.io/en/latest/index.html)
 
 ### Skills 
 <p align="left">
