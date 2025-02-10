@@ -8,7 +8,7 @@ Engineer, Developer, Creator.
 *   ✉️  You can contact me at [javruimantech@gmail.com](mailto:javruimantech@gmail.com)
 *   🧠  I love Python and Software Design. Currently learning about Artificial Intelligence.
 *   🔆  My [portfolio](https://javrui.github.io/portfolio/)
-*   🏁 My project [2024 Python search module (AI algorithm](https://search-module.readthedocs.io/en/latest/index.html)
+*   🏁 My project [2024 Python search module (AI algorithms)](https://search-module.readthedocs.io/en/latest/index.html)
 *   🏁 My project [2025 Q-Learning-based Python script for training and playing the Nim game](https://javrui.github.io/nim/)
 
 ### Skills 
